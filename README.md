@@ -44,7 +44,7 @@ The Neural Networks Speech Enhancer project uses deep learning techniques combin
    ```
 
 3. **Install Dependencies**
-   Ensure MATLAB R2023a or later is installed. No additional toolboxes are needed.
+   Ensure MATLAB R2023a or later is installed in addition to Deep Learning Toolbox.
 
 ## Usage
 
