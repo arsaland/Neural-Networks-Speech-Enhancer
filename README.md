@@ -19,7 +19,7 @@
 
 ## Overview
 
-The Neural Networks Speech Enhancer project uses deep learning techniques combined with spectral subtraction to enhance noisy speech signals. The goal is to improve the clarity and Signal-to-Noise Ratio (SNR) of audio, making speech more intelligible in challenging noise conditions. This MATLAB-based project includes scripts for training the neural network, processing audio, and generating visualizations of enhancement performance.
+The Neural Networks Speech Enhancer project uses neural networks techniques combined with spectral subtraction to enhance noisy speech signals. The goal is to improve the clarity and Signal-to-Noise Ratio (SNR) of audio, making speech more intelligible in challenging noise conditions. This MATLAB-based project includes scripts for training the neural network, processing audio, and generating visualizations of enhancement performance.
 
 ## Features
 
@@ -90,10 +90,7 @@ plots
 Adjust SNR and other settings within the scripts as necessary for different noise environments.
 
 ## Dependencies
-- MATLAB R2023a or later
-
-## Contributing
-Contributions are welcome! Fork this repository and submit a pull request for review.
+- MATLAB R2023a or later and Deep Learning Toolbox
 
 ## License
 This project is licensed under the MIT License.
